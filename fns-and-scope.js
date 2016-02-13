@@ -58,7 +58,7 @@ var myName = function() {
 var newMyName = myName;
 
 //Now alert the result of invoking newMyName
-alert(newMyName());
+console.log(newMyName());
 
 
 //Next problem
